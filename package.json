@@ -31,7 +31,7 @@
     "@ngx-loading-bar/router": "^4.1.1",
     "@ngx-translate/core": "11.0.0",
     "@ngx-translate/http-loader": "4.0.0",
-    "apexcharts": "^3.5.1",
+    "apexcharts": "^3.24.0",
     "chart.js": "2.7.3",
     "core-js": "2.5.7",
     "devextreme-angular": "^18.2.6",
